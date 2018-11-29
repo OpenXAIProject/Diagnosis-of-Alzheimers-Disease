@@ -3,7 +3,7 @@
 Python implementation for the classification and explanation of Alzheimer's Disease based on voxResNet.
 
 ## Dataset
-For more detailed information and download, please refer to [the official website of BCI Competition dataset]( http://adni.loni.usc.edu/
+For more detailed information and download, please refer to http://adni.loni.usc.edu/
 
 ## Prerequisites
 + Python 2.7
