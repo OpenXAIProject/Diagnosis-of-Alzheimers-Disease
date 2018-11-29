@@ -1,5 +1,5 @@
 
-# Classification and Explanation Model for Alzheimer’s Disease on Deep Learning Model
+# Classification and Explanation Model for Alzheimer’s Disease
 Python implementation for the classification and explanation of Alzheimer's Disease based on voxResNet.
 
 ## Dataset
