@@ -1,6 +1,4 @@
 
-<img src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width="300" height="100">
-
 # Classification and Explanation Model for Alzheimer’s Disease on Deep Learning Model
 Python and matlab implementation for the classification and explanation of Alzheimer's Disease based on CNN model.
 
@@ -17,7 +15,7 @@ If you have any question, please contact Gun-Hee Lee (gunhlee@korea.ac.kr).
 
 + Project Name : A machine learning and statistical inference framework for explainable artificial intelligence(의사결정 이유를 설명할 수 있는 인간 수준의 학습·추론 프레임워크 개발)
 
-+ Managed by Ministry of Science and ICT/XAIC
++ Managed by Ministry of Science and ICT/XAIC <img align="right" src="http://xai.unist.ac.kr/static/img/logos/XAIC_logo.png" width=300px>
 
 + Participated Affiliation : UNIST, Korea Univ., Yonsei Univ., KAIST, AItrics  
 
