@@ -5,8 +5,19 @@ Python implementation for the classification and explanation of Alzheimer's Dise
 ## Dataset Reference
 For more detailed information and download, please refer to [the official website of BCI Competition dataset]( http://adni.loni.usc.edu/
 
+## Prerequisites
++ Python 2.7
++ numpy 
++ Pandas 
++ matplotlib 
++ theano
++ scikit-learn 
+
+
+
 ## Contacts
 If you have any question, please contact Gun-Hee Lee (gunhlee@korea.ac.kr).
+
 
 <br /> 
 <br />
