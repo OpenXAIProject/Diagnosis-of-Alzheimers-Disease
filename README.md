@@ -1,6 +1,6 @@
 
 # Classification and Explanation Model for Alzheimer’s Disease on Deep Learning Model
-Python and matlab implementation for the classification and explanation of Alzheimer's Disease based on CNN model.
+Python implementation for the classification and explanation of Alzheimer's Disease based on CNN model.
 
 ## Dataset Reference
 For more detailed information and download, please refer to [the official website of BCI Competition dataset]( http://adni.loni.usc.edu/
