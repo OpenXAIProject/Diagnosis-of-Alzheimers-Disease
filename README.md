@@ -13,7 +13,12 @@ For more detailed information and download, please refer to [the official websit
 + theano
 + scikit-learn 
 
+## Result
 
+<p align="center">
+<img
+src="https://github.com/OpenXAIProject/Diagnosis-of-Alzheimers-Disease/blob/master/result.png"  width="800">
+</p>
 
 ## Contacts
 If you have any question, please contact Gun-Hee Lee (gunhlee@korea.ac.kr).
