@@ -2,6 +2,10 @@
 # Classification and Explanation Model for Alzheimer’s Disease on Deep Learning Model
 Python implementation for the classification and explanation of Alzheimer's Disease based on voxResNet.
 
+
+<br /> 
+<br />
+
 ## Dataset
 For more detailed information and download, please refer to [the official website of BCI Competition dataset]( http://adni.loni.usc.edu/
 
